@@ -7,9 +7,13 @@ About Me I'm a passionate learner exploring cybersecurity, data analysis, and fr
 
 
 Programming Language: Python,Java,C language. 
+
 Front-end-Technologies: HTML, CSS, JavaScript. 
+
 Database Management Systems:Oracle, MySQL. 
+
 SQL:Proficiency in writing complex SQL queries, stored procedures, and functions. 
+
 Database Design: Experience with data modeling, normalization, and schema development
 
 
