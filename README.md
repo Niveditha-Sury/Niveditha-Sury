@@ -1,6 +1,6 @@
 👋 Niveditha Suryanarayanan 🎓 Student| Cyber Security Enthusiast
 
-About Me I'm a passionate learner exploring cybersecurity, data analysis, and front-end development. With hands-on experience in SQL, Python, Tableau, HTML, CSS, and JavaScript frameworks, I enjoy solving problems and building efficient solutions. I'm eager to collaborate on internships and projects where I can apply my skills, contribute meaningfully, and continue growing. Let’s connect and create something impactful
+I'm a passionate learner exploring cybersecurity, data analysis, and front-end development. With hands-on experience in SQL, Python, Tableau, HTML, CSS, and JavaScript frameworks, I enjoy solving problems and building efficient solutions. I'm eager to collaborate on internships and projects where I can apply my skills, contribute meaningfully, and continue growing. Let’s connect and create something impactful
 
 
 🚀 Technologies and Skills
