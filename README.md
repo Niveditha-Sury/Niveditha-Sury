@@ -1,24 +1,22 @@
-👋 Niveditha Suryanarayanan 🎓 Student| Cyber Security Enthusiast
+<h1 align="center">Hi 👋, I'm Niveditha Suryanarayanan</h1>
+<h3 align="center">A cyber security enthusiast from India</h3>
 
-I'm a passionate learner exploring cybersecurity, data analysis, and front-end development. With hands-on experience in SQL, Python, Tableau, HTML, CSS, and JavaScript frameworks, I enjoy solving problems and building efficient solutions. I'm eager to collaborate on internships and projects where I can apply my skills, contribute meaningfully, and continue growing. Let’s connect and create something impactful
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niveditha-sury&label=Profile%20views&color=0e75b6&style=flat" alt="niveditha-sury" /> </p>
 
+- 🌱 I’m currently learning **Full stack web development**
 
-🚀 Technologies and Skills
+- 📫 How to reach me **nivedithasuryanarayanan@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/niveditha s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niveditha s" height="30" width="40" /></a>
+</p>
 
-Programming Language: Python,Java,C language. 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-Front-end-Technologies: HTML, CSS, JavaScript. 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niveditha-sury&show_icons=true&locale=en&layout=compact" alt="niveditha-sury" /></p>
 
-Database Management Systems:Oracle, MySQL. 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niveditha-sury&show_icons=true&locale=en" alt="niveditha-sury" /></p>
 
-SQL:Proficiency in writing complex SQL queries, stored procedures, and functions. 
-
-Database Design: Experience with data modeling, normalization, and schema development
-
-
-📌Connect with me 
-
-Linkedin:https://www.linkedin.com/in/niveditha-s-bb7667324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-Instagram:https://www.instagram.com/officialnivedithas?igsh=bTNoMmhuMjQ1cTlo
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niveditha-sury&" alt="niveditha-sury" /></p>
