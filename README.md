@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niveditha Suryanarayanan</h1>
 <h3 align="center">A cyber security enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niveditha-sury&label=Profile%20views&color=0e75b6&style=flat" alt="niveditha-sury" /> </p>
-
 - 🌱 I’m currently learning **Full stack web development**
 
 - 📫 How to reach me **nivedithasuryanarayanan@gmail.com**
@@ -20,11 +18,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Niveditha-Sury&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Niveditha-Sury&theme=catppuccin_mocha&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niveditha-Sury&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Niveditha-Sury&theme=rose&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Niveditha-Sury&icon=9&color=10)](https://visitcount.itsvg.in)
 
 
