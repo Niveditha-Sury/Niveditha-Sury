@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nivedithasuryanarayanan@gmail.com**
 
-- ⚡ Fun fact: **I can binge watch lengthier shows in a short span of time.**
+- ⚡ Fun fact: **I lose focus when I'm surrounded by food.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
