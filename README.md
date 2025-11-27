@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
+- 💼 My Portfolio **https://nivedithasury-portfolio.netlify.app/**
+
 - 📫 How to reach me **nivedithasuryanarayanan@gmail.com**
 
 - ⚡ Fun fact: **I make playlists as a hobby.**
